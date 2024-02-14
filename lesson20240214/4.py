@@ -1,5 +1,5 @@
 from turtle import *
-a= int(input('Яка буде сторона квадрату?'))
+a= int(input('Яка буде сторона  квадрату?'))
 b= a-20
 color('blue')
 width(3)
